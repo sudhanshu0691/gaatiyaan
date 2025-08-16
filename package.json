@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sudhanshu0691.github.io/gaatiyan",
-  "name": "gaatiyan",
+  "homepage": "https://sudhanshu0691.github.io/gaatiyaan",
+  "name": "gaatiyaan",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+  "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -37,6 +37,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sudhanshu0691/gaatiyan.git"
+    "url": "git+https://github.com/sudhanshu0691/gaatiyaan.git"
   }
 }
